@@ -10,12 +10,39 @@ Penultimate year Software Engineering student at the University of Auckland, pas
   <img src="https://github.com/shyke0611/shyke0611/assets/126353075/2695b635-4205-4494-a752-46880eb2d7ff" alt="LinkedIn" width="40" height="40">
 </a>
 
-## Skills
+## Languages And Tools
+
+[![Java][Java]][Java-url]
+[![Python][Python]][Python-url]
+[![C][C]][C-url]
+[![C++][Cpp]][Cpp-url]
+[![MATLAB][MATLAB]][MATLAB-url]
+[![JavaScript][JavaScript]][JavaScript-url]
+[![HTML][HTML]][HTML-url]
+[![CSS][CSS]][CSS-url]
+[![LaTeX][LaTeX]][LaTeX-url]
+[![MySQL][MySQL]][MySQL-url]
 
 [Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [Java-url]: https://www.java.com/
-
-[![Java][Java]][Java-url]
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+[C]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[C-url]: https://en.wikipedia.org/wiki/C_(programming_language)
+[Cpp]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[Cpp-url]: https://isocpp.org/
+[MATLAB]: https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white
+[MATLAB-url]: https://www.mathworks.com/products/matlab.html
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://www.javascript.com/
+[HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[LaTeX]: https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white
+[LaTeX-url]: https://www.latex-project.org/
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
 
 <!--
 **shyke0611/shyke0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
