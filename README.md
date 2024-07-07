@@ -6,7 +6,7 @@ Penultimate year Software Engineering student at the University of Auckland, pas
 <a href="mailto:hyungkenine2003@gmail.com">
   <img src="https://github.com/shyke0611/shyke0611/assets/126353075/4f3c51c3-195c-4eea-99fd-362bdaaba626" alt="Email" width="70" height="40">
 </a>
-<a href="https://www.linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/andrew-hk-shin">
   <img src="https://github.com/shyke0611/shyke0611/assets/126353075/2695b635-4205-4494-a752-46880eb2d7ff" alt="LinkedIn" width="40" height="40">
 </a>
 
