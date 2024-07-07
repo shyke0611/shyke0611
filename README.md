@@ -22,6 +22,8 @@ Penultimate year Software Engineering student at the University of Auckland, pas
 [![CSS][CSS]][CSS-url]
 [![LaTeX][LaTeX]][LaTeX-url]
 [![MySQL][MySQL]][MySQL-url]
+[![React][React]][React-url]
+[![Node.js][Node.js]][Node.js-url]
 
 [Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [Java-url]: https://www.java.com/
@@ -43,6 +45,10 @@ Penultimate year Software Engineering student at the University of Auckland, pas
 [LaTeX-url]: https://www.latex-project.org/
 [MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
+[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node.js-url]: https://nodejs.org/
 
 <!--
 **shyke0611/shyke0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
