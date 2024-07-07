@@ -4,7 +4,7 @@ Penultimate year Software Engineering student at the University of Auckland, pas
 
 ## Reach Me
 <a href="mailto:hyungkenine2003@gmail.com">
-  <img src="https://github.com/shyke0611/shyke0611/assets/126353075/4f3c51c3-195c-4eea-99fd-362bdaaba626" alt="Email" width="40" height="40">
+  <img src="https://github.com/shyke0611/shyke0611/assets/126353075/4f3c51c3-195c-4eea-99fd-362bdaaba626" alt="Email" width="60" height="40">
 </a>
 <a href="https://www.linkedin.com/in/your-profile">
   <img src="https://github.com/your-username/your-repository/blob/main/path-to-image/linkedin-logo.png" alt="LinkedIn" width="40" height="40">
