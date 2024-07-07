@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I am Andrew Shin
 
 <!--
 **shyke0611/shyke0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
