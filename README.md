@@ -1,4 +1,4 @@
-## Hi There, I am Andrew Shin
+## Hello, I am Andrew Shin
 
 Penultimate year Software Engineering student at the University of Auckland, passionate about developing innovative software solutions.
 
