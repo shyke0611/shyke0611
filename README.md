@@ -3,7 +3,7 @@
 Penultimate year Software Engineering student at the University of Auckland, passionate about developing innovative software solutions.
 
 ## Reach Me
-[![Email](https://github.com/your-username/your-repository/blob/main/path-to-image/email-logo.png)](mailto:hyungkenine2003@gmail.com)
+[![image](https://github.com/shyke0611/shyke0611/assets/126353075/4f3c51c3-195c-4eea-99fd-362bdaaba626)](mailto:hyungkenine2003@gmail.com)
 [![LinkedIn](https://github.com/your-username/your-repository/blob/main/path-to-image/linkedin-logo.png)](https://www.linkedin.com/in/your-profile)
 
 
