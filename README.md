@@ -12,9 +12,10 @@ Penultimate year Software Engineering student at the University of Auckland, pas
 
 ## Skills
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+[Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[Java-url]: https://www.java.com/
+
+[![Java][Java]][Java-url]
 
 <!--
 **shyke0611/shyke0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
