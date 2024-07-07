@@ -10,6 +10,11 @@ Penultimate year Software Engineering student at the University of Auckland, pas
   <img src="https://github.com/shyke0611/shyke0611/assets/126353075/2695b635-4205-4494-a752-46880eb2d7ff" alt="LinkedIn" width="40" height="40">
 </a>
 
+## Skills
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
 
 <!--
 **shyke0611/shyke0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
