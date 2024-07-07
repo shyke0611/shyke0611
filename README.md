@@ -1,4 +1,6 @@
-## Hello, I am Andrew Shin
+## Hi There, I am Andrew Shin
+
+Penultimate year Software Engineering student at the University of Auckland, passionate about developing innovative software solutions.
 
 <!--
 **shyke0611/shyke0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
