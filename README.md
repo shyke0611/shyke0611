@@ -4,10 +4,10 @@ Penultimate year Software Engineering student at the University of Auckland, pas
 
 ## Reach Me
 <a href="mailto:hyungkenine2003@gmail.com" target="_blank">
-  <i class="fas fa-envelope" style="font-size: 2em; color: #0072c6;"></i>
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="Email" width="40" height="40">
 </a>
 <a href="https://www.linkedin.com/in/andrew-hk-shin" target="_blank">
-  <i class="fab fa-linkedin" style="font-size: 2em; color: #0072c6;"></i>
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn" width="40" height="40">
 </a>
 
 You can also check out my website: [https://andrewshinportfolio.netlify.app](https://andrewshinportfolio.netlify.app)
