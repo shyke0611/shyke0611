@@ -3,14 +3,9 @@
 Penultimate year Software Engineering student at the University of Auckland, passionate about developing innovative software solutions.
 
 ## Reach Me
-<a href="mailto:hyungkenine2003@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="Email" width="40" height="40">
-</a>
-<a href="https://www.linkedin.com/in/andrew-hk-shin" target="_blank">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn" width="40" height="40">
-</a>
-
-You can also check out my website: [https://andrewshinportfolio.netlify.app](https://andrewshinportfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyungkenine2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-hk-shin)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://andrewshinportfolio.netlify.app)
 
 ## Languages And Tools
 
