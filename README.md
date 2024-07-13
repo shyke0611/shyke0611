@@ -19,8 +19,6 @@ Penultimate year Software Engineering student at the University of Auckland, pas
 [![CSS][CSS]][CSS-url]
 [![LaTeX][LaTeX]][LaTeX-url]
 [![MySQL][MySQL]][MySQL-url]
-[![React][React]][React-url]
-[![Node.js][Node.js]][Node.js-url]
 
 [Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [Java-url]: https://www.java.com/
