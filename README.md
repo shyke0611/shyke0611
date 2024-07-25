@@ -1,6 +1,6 @@
 ## Hello, I am Andrew Shin
 
-Penultimate year Software Engineering student at the University of Auckland, passionate about developing innovative software solutions.
+Penultimate year Software Engineering student at the University of Auckland.
 
 ## Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyungkenine2003@gmail.com)
